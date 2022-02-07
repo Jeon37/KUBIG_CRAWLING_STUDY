@@ -1,4 +1,5 @@
-## ✏️ KUBIG 크롤링 및 텍스트마이닝 스터디
+## KUBIG 크롤링 및 텍스트마이닝 프로젝트
+### ✏️ Crawling&Text Mining Study
 - **기간** : 2021.03~2021.06
 - [DataCamp](https://www.datacamp.com)에서 제공하는 크롤링 및 텍스트마이닝 강의 중심으로 스터디 진행
 - **주차별 스터디**
