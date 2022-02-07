@@ -24,10 +24,10 @@
 - Selenium과 BeautifulSoup 패키지 이용
 - 2020년 2학기 전공수업 강의평 약 5500개 데이터 수집
 
-2️⃣ Tokenization
+2️⃣ **Tokenization**
 - 한국어 처리 패키지 KoNLPy 중 Okt 형태소 분석기 사용
 
-3️⃣ Modeling
+3️⃣ **Modeling**
 - 정수 인코딩 및 패딩
 - RNN, LSTM, GRU, Bi-LSTM, CNN 모델에 대해 모델링 실시
 - **결과**
