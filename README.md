@@ -19,6 +19,7 @@
 ### 2. Crawling Project
 - **주제** : [KLUE](https://klue.kr/) 강의평 만족도 예측 모델
 - **내용** : Selenium을 이용해 KLUE 강의평 데이터를 크롤링하고 모델을 구축해 새로운 강의평 텍스트에 대한 만족도를 예측한다.
+
 1️⃣ **Crawling**
 - Selenium과 BeautifulSoup 패키지 이용
 - 2020년 2학기 전공수업 강의평 약 5500개 데이터 수집
